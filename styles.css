@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+.red{
+	background-color:red;
+	width:100px;
+	height:100px;
+}
+.green{
+	background-color:green;
+	width:100px;
+	height:100px;
+}
+.blue{
+	background-color:blue;
+	width:100px;
+	height:100px;
+}
+.item{
+	display:flex;
+	justify-content:space-between
+}
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly
+}
